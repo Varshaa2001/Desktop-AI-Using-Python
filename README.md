@@ -9,7 +9,7 @@ Install the Required Python Modules
  pip install -r requirements.txt
 Run the Script
 
- jarvis.py
+ Sri.py
 How To Use
 Once Sri is in its listening state, you can say what you want it to do by speaking.
 
